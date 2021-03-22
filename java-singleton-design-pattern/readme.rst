@@ -1,0 +1,1 @@
+You can read tutorial here https://roytuts.com/how-singleton-pattern-works-in-java/
