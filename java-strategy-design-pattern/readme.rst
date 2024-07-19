@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/strategy-design-pattern-in-java/
+Please follow the tutorial https://roytuts.com/strategy-design-pattern-in-java/
